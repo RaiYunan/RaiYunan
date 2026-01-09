@@ -27,15 +27,6 @@ My primary interests include frontend development with React, backend developmen
 <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,vercel,vscode" />
 
 
-
----
-
-## Problem Solving and DSA
-
-- Solved 80+ Data Structures and Algorithms problems using Java
-- Topics include arrays, hashing, prefix sums, matrices, and recursion
-- Practicing common interview patterns such as Sliding Window, Two Pointers, and HashMaps
-
 LeetCode Profile:  
 https://leetcode.com/u/ohn0TMFh6d/
 
@@ -47,8 +38,3 @@ Bachelor of Science in Computer Science and Information Technology (B.Sc. CSIT)
 Central Campus of Technology, Dharan  
 
 ---
-
-## Contact
-
-GitHub: https://github.com/RaiYunan  
-LinkedIn: https://www.linkedin.com/in/yunan-rai-29906432b/
