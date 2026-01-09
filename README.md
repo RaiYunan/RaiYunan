@@ -14,17 +14,18 @@ My primary interests include frontend development with React, backend developmen
 
 ## Technical Skills
 
-**Languages:**  
+**Languages:** Java, JavaScript, TypeScript, C, SQL <br>
 <img src="https://skillicons.dev/icons?i=java,js,ts,c,sql" />
 
-**Frontend:**  
+**Frontend:** React, HTML, CSS, Tailwind CSS <br>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
-**Backend:**  
+**Backend:** Node.js, Express.js, MongoDB, Mongoose, REST APIs <br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-**Tools:**  
+**Tools:** Git, GitHub, Postman, Firebase, Vercel, Visual Studio Code <br>
 <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,vercel,vscode" />
+
 
 
 ---
@@ -44,7 +45,6 @@ https://leetcode.com/u/ohn0TMFh6d/
 
 Bachelor of Science in Computer Science and Information Technology (B.Sc. CSIT)  
 Central Campus of Technology, Dharan  
-First Semester GPA: 3.54 / 4.00
 
 ---
 
