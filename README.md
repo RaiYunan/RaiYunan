@@ -14,60 +14,18 @@ My primary interests include frontend development with React, backend developmen
 
 ## Technical Skills
 
-**Languages**
-- Java
-- JavaScript
-- TypeScript
-- C
-- SQL
+**Languages:**  
+<img src="https://skillicons.dev/icons?i=java,js,ts,c,sql" />
 
-**Frontend**
-- React
-- HTML
-- CSS
-- Tailwind CSS
+**Frontend:**  
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
-**Backend**
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- RESTful APIs
+**Backend:**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-**Tools**
-- Git
-- GitHub
-- Postman
-- Firebase
-- Vercel
-- Visual Studio Code
+**Tools:**  
+<img src="https://skillicons.dev/icons?i=git,github,postman,firebase,vercel,vscode" />
 
----
-
-## Projects
-
-### MERN Blog Platform
-A full-stack blogging platform with authentication and complete CRUD functionality.
-
-- Implemented JWT-based authentication and authorization
-- Designed RESTful APIs and MongoDB schemas using Mongoose
-- Built a responsive frontend using React
-- Deployed frontend and backend separately on Vercel
-
-Repository:  
-https://github.com/RaiYunan/MERN-BLOG
-
----
-
-### Whisper – Stories Application (TypeScript MERN)
-An ongoing story-sharing application developed to strengthen type-safe full-stack development.
-
-- Uses TypeScript across frontend and backend
-- Defines strict interfaces for APIs and database models
-- Focuses on scalable project structure and maintainable code
-
-Repository:  
-https://github.com/RaiYunan/MERN-STORIES
 
 ---
 
