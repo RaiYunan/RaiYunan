@@ -1,40 +1,48 @@
 # Yunan Rai
 
-B.Sc. CSIT student at Central Campus of Technology, Dharan, with a strong interest in frontend and full-stack web development. I focus on building practical web applications using the MERN stack and continuously improving my problem-solving skills through Data Structures and Algorithms in Java.
+B.Sc. CSIT student at Central Campus of Technology, Dharan.  
+Focused on frontend and full-stack web development with the MERN stack.  
+Strong interest in building production-ready applications and improving problem-solving skills through Data Structures and Algorithms in Java.
 
 ---
 
 ## About Me
 
-I am currently pursuing a Bachelor of Science in Computer Science and Information Technology (B.Sc. CSIT). I enjoy working on real-world projects that help me understand how modern web applications are designed, built, and deployed.
-
-My primary interests include frontend development with React, backend development with Node.js and MongoDB, and writing clean, maintainable code using TypeScript. Alongside development, I actively practice DSA to strengthen my logical thinking and interview readiness.
+- Frontend and Full-Stack Web Developer (MERN)
+- Strong foundation in Java and DSA
+- Experience building real-world, scalable web applications
+- Emphasis on clean, maintainable, and readable code
 
 ---
 
 ## Technical Skills
 
-**Languages:** Java, JavaScript, TypeScript, C, SQL <br>
+### Languages
+Java · JavaScript · TypeScript · C · SQL  
 <img src="https://skillicons.dev/icons?i=java,js,ts,c,sql" />
 
-**Frontend:** React, HTML, CSS, Tailwind CSS <br>
+### Frontend
+React · HTML · CSS · Tailwind CSS  
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
-**Backend:** Node.js, Express.js, MongoDB, Mongoose, REST APIs <br>
+### Backend
+Node.js · Express.js · MongoDB · Mongoose · REST APIs  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-**Tools:** Git, GitHub, Postman, Firebase, Vercel, Visual Studio Code <br>
+### Tools
+Git · GitHub · Postman · Firebase · Vercel · VS Code  
 <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,vercel,vscode" />
 
+---
 
-LeetCode Profile:  
-https://leetcode.com/u/ohn0TMFh6d/
+## Problem Solving
+
+- Actively practicing Data Structures and Algorithms in Java  
+- LeetCode: https://leetcode.com/u/ohn0TMFh6d/
 
 ---
 
 ## Education
 
-Bachelor of Science in Computer Science and Information Technology (B.Sc. CSIT)  
-Central Campus of Technology, Dharan  
-
----
+Bachelor of Science in Computer Science and Information Technology  
+Central Campus of Technology, Dharan
