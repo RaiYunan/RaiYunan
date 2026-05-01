@@ -38,7 +38,7 @@ Git · GitHub · Postman · Firebase · Vercel · VS Code
 ## Problem Solving
 
 - Actively practicing Data Structures and Algorithms in Java  
-- LeetCode: https://leetcode.com/u/ohn0TMFh6d/
+- LeetCode: https://leetcode.com/u/RaiYunan
 
 ---
 
